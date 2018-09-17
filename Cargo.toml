@@ -1,0 +1,8 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["Isan-Rivkin <isanrivkin@gmail.com>"]
+
+[dependencies]
+rand = "0.5.5"
+piston_window = "0.80.0"
